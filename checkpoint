@@ -1,0 +1,2 @@
+model_checkpoint_path: "MINSTmodel.ckpt"
+all_model_checkpoint_paths: "MINSTmodel.ckpt"
